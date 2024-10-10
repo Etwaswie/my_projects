@@ -1,2 +1,1 @@
-# my_projects
-Projects description
+This repository was created to describe my completed projects, as well as projects currently in progress.
