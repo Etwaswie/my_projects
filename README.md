@@ -1,6 +1,6 @@
 This repository was created to describe my completed projects, as well as projects currently in progress.
 
-# Books recommended
+# Books recommender
 **Description:** This is my latest project, which is currently under development. It aims to create a recommendation service that offers similar books based on the user's indication of the book they like. An integral part of this project is the "Book scraping project", which includes a web scraper designed to extract comprehensive book information from the [book24.ru](https://book24.ru/?ysclid=m2343foj7s932659211) website. The scraper gathers essential data such as ISBN, titles, authors, genres, publication year, age restrictions, number of pages, publishers, ratings, and descriptions to enhance the recommendation engine.
 
 **Technologies:** Clickhouse, requests, selenium, NLP, Recsys.
